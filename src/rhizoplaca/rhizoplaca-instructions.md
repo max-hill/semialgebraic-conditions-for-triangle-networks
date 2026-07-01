@@ -13,7 +13,7 @@ should be similar for MacOS and other Ubuntu/Debian-based Linux systems.
 # Data preparation
 There are two steps:
 
-1. Obtain the gene tree dataset `phylonet_BUSCO407_r4_haydenii.nex` by
+First, obtain the gene tree dataset `phylonet_BUSCO407_r4_haydenii.nex` by
 downloading it from
 [https://doi.org/10.6084/m9.figshare.11299040](https://doi.org/10.6084/m9.figshare.11299040),
 and saving it to `gitrepo/data`.
@@ -27,18 +27,18 @@ The source for this dataset is
 > https://doi.org/10.6084/m9.figshare.11299040.v2
 
 
-2. Edit the PhyloNet instruction block (located at the end of the nexus file
-`phylonet_BUSCO407_r4_haydenii.nex`) in two ways:
+Second, edit the PhyloNet instruction block (located at the end of the nexus
+file `phylonet_BUSCO407_r4_haydenii.nex`) in two ways:
 
-  - Change the `maximum reticulations` parameter from 4 to 1 by replacing
+- Change the `maximum reticulations` parameter from 4 to 1 by replacing
 
-    `InferNetwork_MPL (tree_1-tree_407) 4`
-    with 
-    `InferNetwork_MPL (tree_1-tree_407) 1`
+  `InferNetwork_MPL (tree_1-tree_407) 4`
+  with 
+  `InferNetwork_MPL (tree_1-tree_407) 1`
 
-  - Exclude bootstrap sampling by removing the option flag `-b 50`.
-    (Bootstrapping isn't necessary for our example, and including
-    bootstrapping produced errors.)
+- Exclude bootstrap sampling by removing the option flag `-b 50`.
+  (Bootstrapping isn't necessary for our example, and including
+  bootstrapping produced errors.)
 
 
 # Instructions for replicating the network
