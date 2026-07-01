@@ -21,8 +21,8 @@ and saving it to `gitrepo/data`.
 The source for this dataset is 
 
 > Rachel Keuler, Alexis Garretson, Theresa Saunders, Robert Erickson, Nathan
-> St.~Andre, Felix Grewe, H Thorsten Lumbsch, Jen-Pan Huang, Larry
-> L.~St.~Claire, and Steven Leavitt. (2019). Genome-scale data reveal the role
+> St. Andre, Felix Grewe, H Thorsten Lumbsch, Jen-Pan Huang, Larry
+> L. St. Claire, and Steven Leavitt. (2019). Genome-scale data reveal the role
 > of hybridization in lichen-forming fungi Item. figshare. Dataset.
 > https://doi.org/10.6084/m9.figshare.11299040.v2
 
