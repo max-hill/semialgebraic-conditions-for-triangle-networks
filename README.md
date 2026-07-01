@@ -18,7 +18,7 @@ computations:
 
 * [Code to replicate Figure 9](src/delta-figure-plot.jl)
 
-* [The computation used the ghost-lineage scenario proof](src/ghost-scenario-calculation.m2)
+* [The computation used in the ghost-lineage scenario proof](src/ghost-scenario-calculation.m2)
 
 * [The computation showing the existence of a one-parameter family of solutions](src/one-param-family-computation.m2)
 
