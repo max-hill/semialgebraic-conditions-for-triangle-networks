@@ -1,8 +1,8 @@
 #_______________________________________________________________________________
 #
-# This code provides the computation that the cutoff for distinguishability is
-# around s=.000177.
-#_______________________________________________________________________________
+# This code provides the computation that the cutoff for distinguishability of
+# rhizoplaca network is around s=.000177.
+# _______________________________________________________________________________
 
 # VERSIONS: This was run with Julia Version 1.10.11.
 
