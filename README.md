@@ -56,7 +56,7 @@ gitrepo
         └── rhizoplaca-plot.jl
 ```
 
-# Software License
+# Software license
 
 Software in this repository is licensed under the GPLv3 License:
 
