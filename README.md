@@ -2,12 +2,12 @@
 
 This repository contains code implementing methods described in the paper:
 
-[1] _Semialgebraic conditions for distinguishing triangles in phylogenetic
-networks_, B. Currie, A. K. Englander, J. A. Esparza-Lozano, E. Gross, M.
-Hill, C. Long, D. Olds, K. O'Connor, U. Ranasinghe, and C. Sum. (2026).
+> [1] _Semialgebraic conditions for distinguishing triangles in phylogenetic
+> networks_, B. Currie, A. K. Englander, J. A. Esparza-Lozano, E. Gross, M.
+> Hill, C. Long, D. Olds, K. O'Connor, U. Ranasinghe, and C. Sum. (2026).
 
-> Software in this repository is licensed under GPLv3: Copyright (c) Max Hill
-> and coauthors.
+Software in this repository is licensed under GPLv3: Copyright (c) Max Hill
+and coauthors.
 
 # Contents
 
