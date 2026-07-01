@@ -59,7 +59,8 @@ gitrepo
         └── rhizoplaca-plot.jl
 ```
 
-Files marked with ^ are not included and must be downloaded. For instructions
-see [replicating the network](src/rhizoplaca/rhizoplaca-instructions.md).
+Files marked with ^ are not included in this repository and must be downloaded
+from external sources (for instructions see [replicating the
+network](src/rhizoplaca/rhizoplaca-instructions.md)).
 
 
