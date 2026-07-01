@@ -1,10 +1,11 @@
 # Preliminaries
 
 This file contains instructions for replicating the rhizoplaca example in the
-paper. The example is based on the rhizoplaca network in Fig 4(a) in Keuler,
-et al "Genome-scale data reveal the role of hybridization in lichen-forming
-fungi", Scientific Reports, (2020) 10:1497 |
-https://doi.org/10.1038/s41598-020-58279-x
+paper. The example is based on the rhizoplaca network in Fig 4(a) in 
+
+> Keuler, et al "Genome-scale data reveal the role of hybridization in
+> lichen-forming fungi", Scientific Reports, (2020) 10:1497 |
+> https://doi.org/10.1038/s41598-020-58279-x
 
 The following instructions assume a Debian 12 operating system, but the steps
 should be similar for MacOS and other Ubuntu/Debian-based Linux systems.
@@ -19,10 +20,13 @@ from
 to `gitrepo/data`.
 
 The source for this dataset is 
-```
-Rachel Keuler, Alexis Garretson, Theresa Saunders, Robert Erickson, Nathan St.~Andre, Felix Grewe, H Thorsten Lumbsch, Jen-Pan Huang, Larry L.~St.~Claire, and Steven Leavitt. (2019). Genome-scale data reveal the role of
-hybridization in lichen-forming fungi Item. figshare. Dataset. https://doi.org/10.6084/m9.figshare.11299040.v2
-```
+
+> Rachel Keuler, Alexis Garretson, Theresa Saunders, Robert Erickson, Nathan
+> St.~Andre, Felix Grewe, H Thorsten Lumbsch, Jen-Pan Huang, Larry
+> L.~St.~Claire, and Steven Leavitt. (2019). Genome-scale data reveal the role
+> of hybridization in lichen-forming fungi Item. figshare. Dataset.
+> https://doi.org/10.6084/m9.figshare.11299040.v2
+
 
 We then edited the PhyloNet instruction block (located at the end of the nexus
 file `phylonet_BUSCO407_r4_haydenii.nex`) in two ways:
