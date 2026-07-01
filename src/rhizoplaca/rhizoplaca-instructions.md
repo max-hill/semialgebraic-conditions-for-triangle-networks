@@ -12,12 +12,10 @@ should be similar for MacOS and other Ubuntu/Debian-based Linux systems.
 
 # Data preparation
 
-First, obtain the gene tree dataset
-[phylonet_BUSCO407_r4_haydenii.nex](../../data/phylonet_BUSCO407_r4_haydenii.nex)
-by downloading the file `phylonet_BUSCO407_r4_haydenii.nex`
-from
-[https://doi.org/10.6084/m9.figshare.11299040](https://doi.org/10.6084/m9.figshare.11299040)
-to `gitrepo/data`.
+First, obtain the gene tree dataset `phylonet_BUSCO407_r4_haydenii.nex` by
+downloading it from
+[https://doi.org/10.6084/m9.figshare.11299040](https://doi.org/10.6084/m9.figshare.11299040),
+and saving it to `gitrepo/data`.
 
 The source for this dataset is 
 
