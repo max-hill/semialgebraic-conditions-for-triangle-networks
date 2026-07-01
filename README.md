@@ -60,7 +60,6 @@ gitrepo
 ```
 
 Files marked with ^ are not included in this repository and must be downloaded
-from external sources (for instructions see [replicating the
-network](src/rhizoplaca/rhizoplaca-instructions.md)).
+from external sources (for instructions see [this file](src/rhizoplaca/rhizoplaca-instructions.md)).
 
 
