@@ -35,13 +35,15 @@ computations:
 The assumed directory structure is as follows:
 
 ```
-├── data/
+gitrepo
+├── data
+│   ├── best-rhizoplaca-networks.txt
 │   └── ...
-├── figures/
+├── figures
 │   ├── ...
 │   └── ...
 ├── README.md
-└── src/
+└── src
     ├── delta-figure-plot.jl
     ├── desmos-code-for-figure-2.json
     ├── Fourier-transform-appendix.jl
