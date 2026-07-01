@@ -11,7 +11,7 @@ The following instructions assume a Debian 12 operating system, but the steps
 should be similar for MacOS and other Ubuntu/Debian-based Linux systems.
 
 # Data preparation
-There are two steps:
+To obtain and prepare the dataset, there are two steps:
 
 First, obtain the gene tree dataset `phylonet_BUSCO407_r4_haydenii.nex` by
 downloading it from
