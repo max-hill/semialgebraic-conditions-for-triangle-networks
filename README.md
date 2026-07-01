@@ -40,12 +40,13 @@ The assumed directory structure is as follows:
 ```
 gitrepo
 ├── data
-│   └── ...
+│   └── ^phylonet_BUSCO407_r4_haydenii.nex
 ├── figures
 │   ├── ...
 │   └── ...
 ├── README.md
 └── src
+    ├── ^PhyloNetv3_8_2.jar
     ├── delta-figure-plot.jl
     ├── desmos-code-for-figure-2.json
     ├── Fourier-transform-appendix.jl
@@ -57,5 +58,8 @@ gitrepo
         ├── rhizoplaca-instructions.md
         └── rhizoplaca-plot.jl
 ```
+
+Files marked with ^ are not included and must be downloaded. For instructions
+see [replicating the network](src/rhizoplaca/rhizoplaca-instructions.md).
 
 
