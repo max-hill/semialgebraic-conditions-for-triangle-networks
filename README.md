@@ -24,7 +24,7 @@ computations:
 
 * [Computations accompanying Appendix: The Fourier Transform](src/Fourier-transform-appendix.jl)
 
-* To replicate the figure 2 plot, see [this Desmos link](https://www.desmos.com/calculator/xs5aivcjn7) (also saved as a .json file [here](src/desmos-code-for-figure-2.json))
+* To replicate the plot in Figure 2, see [this Desmos link](https://www.desmos.com/calculator/xs5aivcjn7) (also saved as a .json file [here](src/desmos-code-for-figure-2.json))
 
 * Code for replicating the _Rhizoplaca_ example can be found in the following files:
 
