@@ -64,34 +64,13 @@ nexus file), and return the top-five best scoring networks.
 
 # Expected output
 
-The best five networks we obtained by running the above code are
+The top-scoring five networks we obtained by running the above code are in [rhizoplaca-best-networks.txt](../../data/rhizoplaca-best-networks.txt). Our best network was
 
 ```
 Inferred Network #1:
 ((((pari:1.0,(shus:1.0)#H1:1.0::0.6270893707082127):0.052149701388190514,((haydenii_complex:1.0,715f:1.0):0.42224547935742746,port:1.0):0.1601495353552912):0.4295167798034873,(mela:1.0,#H1:1.0::0.3729106292917873):0.1918552453196347):5.910309119954094,novo:1.0);
 Total log probability: -3995168.2409823295
 Visualize in Dendroscope : ((((pari,(shus)#H1),((haydenii_complex,715f),port)),(mela,#H1)),novo);
-
-Inferred Network #2:
-((((shus:1.0,(mela:1.0)#H1:1.0::0.5184465708981382):0.14832783102407038,(((715f:1.0,haydenii_complex:1.0):0.42325150252958577,port:1.0):0.16214828799388792,pari:1.0):0.1426851324490989):0.7001218931743756,#H1:1.0::0.48155342910186183):5.9115791163106675,novo:1.0);
-Total log probability: -3995412.254519809
-Visualize in Dendroscope : ((((shus,(mela)#H1),(((715f,haydenii_complex),port),pari)),#H1),novo);
-
-Inferred Network #3:
-((((shus:1.0)#H1:1.0::0.36399865381207996,mela:1.0):0.197218814627143,(((port:1.0,(haydenii_complex:1.0,715f:1.0):0.42353209308325496):0.159654043597711,#H1:1.0::0.63600134618792):0.0011774181844964955,pari:1.0):0.42956809268533375):5.910211696420865,novo:1.0);
-Total log probability: -3995429.7294169627
-Visualize in Dendroscope : ((((shus)#H1,mela),(((port,(haydenii_complex,715f)),#H1),pari)),novo);
-
-Inferred Network #4:
-(((mela:1.0,(shus:1.0)#H1:1.0::0.06847934236314923):5.933433279482921,(#H1:1.0::0.9315206576368508,(((715f:1.0,haydenii_complex:1.0):0.4234591024929822,port:1.0):0.16095369089584152,pari:1.0):0.12709066907043626):0.29358322025546174):5.9102129133179355,novo:1.0);
-Total log probability: -3995565.6893627
-Visualize in Dendroscope : (((mela,(shus)#H1),(#H1,(((715f,haydenii_complex),port),pari))),novo);
-
-Inferred Network #5:
-(((((((haydenii_complex:1.0,715f:1.0):0.3789656399904147,(port:1.0)#H1:1.0::0.9279940388410709):0.19785230712436316,pari:1.0):0.16718427000252375,shus:1.0):0.2753113253303149,mela:1.0):0.15025999127569925,#H1:1.0::0.0720059611589291):5.911380645369337,novo:1.0);
-Total log probability: -3996584.3210581783
-Visualize in Dendroscope : (((((((haydenii_complex,715f),(port)#H1),pari),shus),mela),#H1),novo);
-
 ```
 
 There does not appear to be a seed parameter for this analysis, so the output
