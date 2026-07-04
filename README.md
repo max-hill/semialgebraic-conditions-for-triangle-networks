@@ -28,7 +28,7 @@ computations:
 
 * Code for replicating the _Rhizoplaca_ example can be found in the following files:
 
-  - [replicating the network](src/rhizoplaca/rhizoplaca-instructions.md)
+  - [instructions for replicating the network](src/rhizoplaca/rhizoplaca-instructions.md)
   - [plotting the networks](src/rhizoplaca/rhizoplaca-plot.jl)
   - [verifying the cutoff](src/rhizoplaca/rhizoplaca-cutoff-computation.jl)
 
