@@ -14,7 +14,7 @@ and coauthors.
 This repository includes the following code for plots and algebraic
 computations:
 
-- [Code for Section (The volume of model intersections)](src/model-size-simulations.jl)
+- [Code for computing the volume of model intersections](src/model-size-simulations.jl)
 
 * [Code to replicate Figure 9](src/delta-figure-plot.jl)
 
