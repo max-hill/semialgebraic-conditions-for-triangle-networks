@@ -16,7 +16,7 @@ computations:
 
 - [Code for computing the volume of model intersections](src/model-size-simulations.jl)
 
-* [Code to replicate Figure 9](src/delta-figure-plot.jl)
+* [Code to replicate Figure 8](src/delta-figure-plot.jl)
 
 * [The computation used in the ghost-lineage scenario proof](src/ghost-scenario-calculation.m2)
 
