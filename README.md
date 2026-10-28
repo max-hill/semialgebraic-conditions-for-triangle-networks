@@ -63,3 +63,10 @@ Files marked with ^ are not included in this repository and must be downloaded
 from external sources (for instructions see [this file](src/rhizoplaca/rhizoplaca-instructions.md)).
 
 
+
+# Additional note
+
+- [Shared scalar site-rate mixtures in a JC triangle](notes/shared-scalar-rate-mixtures/README.md):
+  a compatibility dichotomy extending the homogeneous model description, with
+  a self-contained proof and exact original-state probability checks. The note
+  states its restricted scope and review status.
